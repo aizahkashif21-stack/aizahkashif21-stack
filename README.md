@@ -11,10 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&color=FF8FAB&center=true&width=800&height=80&multiline=true&repeat=false&lines=Currently+working+on%3A+Network+Intrusion+Detection;Languages%3A+C%2C+C%2B%2B" alt="Currently working on: Network Intrusion Detection. Languages: C, C++"/>
-</p>
-
-<p align="center">
-  <img src="pixel-art.jpeg" width="500"/><img width="285" height="405" alt="pixel-art jpeg" src="https://github.com/user-attachments/assets/a2216e15-bc7b-49a5-939f-b35458dded8a" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&color=FF8FAB&center=true&width=800&height=80&multiline=true&repeat=false&lines=Currently+working+on%3A+Network+Intrusion+Detection;Languages%3A+C%2C+C%2B%2B" alt="Currently working on: Network Intrusion Detection System. Languages: C, C++"/>
 </p>
