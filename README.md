@@ -15,5 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="pixel-art.png" width="500" alt="Mission objective: be yourself"/>
+  <img src="pixel-art.jpeg" width="500"/><img width="285" height="405" alt="pixel-art jpeg" src="https://github.com/user-attachments/assets/a2216e15-bc7b-49a5-939f-b35458dded8a" />
+
 </p>
