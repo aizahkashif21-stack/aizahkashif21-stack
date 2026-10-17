@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&color=FF8FAB&center=true&width=800&height=80&multiline=true&repeat=false&lines=Currently+working+on%3A+Network+Intrusion+Detection;Languages%3A+C%2C+C%2B%2B" alt="Currently working on: Network Intrusion Detection System. Languages: C, C++"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&color=FF8FAB&center=true&width=800&height=80&multiline=true&repeat=false&lines=Currently+working+on%3A+Network+Intrusion+Detection+System;Languages%3A+C%2C+C%2B%2B" alt="Currently working on: Network Intrusion Detection System. Languages: C, C++"/>
 </p>
